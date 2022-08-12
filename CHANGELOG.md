@@ -1,4 +1,13 @@
 CHANGELOG 
+### [0.0.14](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.11...v0.0.14) (2022-08-12)
+
+
+### 🚀 Chore | 构建/工程依赖/配置
+
+* 添加新的git hooks ([4500c65](https://gitee.com/liu-shipeng/my-eslint/commit/4500c65dea5889a54d75c7c9b3a1950214f5c04e))
+* **release:** 0.0.12 ([866e542](https://gitee.com/liu-shipeng/my-eslint/commit/866e5424471b9dfd7ee00853fc43ab0c251a783a))
+* **release:** 0.0.13 ([862eee1](https://gitee.com/liu-shipeng/my-eslint/commit/862eee12cbe555d80a7747ab3ee78c3b8026e4fb))
+
 ### [0.0.13](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.11...v0.0.13) (2022-08-12)
 
 
