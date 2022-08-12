@@ -6,6 +6,7 @@ const a = {
   a: 1,
   b: 2,
   c: 1,
+  d: 1,
 };
 console.log(a);
 function App() {
