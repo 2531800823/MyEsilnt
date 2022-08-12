@@ -5,6 +5,7 @@ import './App.css';
 const a = {
   a: 1,
   b: 2,
+  c: 1,
 };
 console.log(a);
 function App() {
@@ -35,6 +36,7 @@ function App() {
       />
       <p />
       <p />
+      <div />
     </div>
   );
 }
