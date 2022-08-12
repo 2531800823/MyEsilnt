@@ -18,7 +18,7 @@ module.exports = {
     "type": "string",
     "description": "A URL representing the issue format (allowing a different URL format to be swapped in for Gitlab, Bitbucket, etc).",
     "default": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}"
-  },
+  }
 }
 
 
