@@ -4,6 +4,7 @@ module.exports = {
   ...fabric.default,
   rules: {
     ...fabric.default.rules,
+    indent: "off",
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'off',
     'no-restricted-syntax': 'off',

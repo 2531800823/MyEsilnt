@@ -1,6 +1,5 @@
 {
   "src/**/*": [
-    "pnpm lint",
-    "pnpm release"
+    "pnpm lint"
   ]
 }
