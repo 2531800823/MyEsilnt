@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-pnpm release
+# pnpm release  不可以，pnpm release 之后每次都会提交一下，会循环下去
