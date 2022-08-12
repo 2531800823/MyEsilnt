@@ -1,4 +1,17 @@
 CHANGELOG 
+### [0.0.12](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.22...v0.0.12) (2022-08-12)
+
+
+### ✨Features | 新功能
+
+* 完成stylelint处理 ([36ef57d](https://gitee.com/liu-shipeng/my-eslint/commit/36ef57d4f19d0419b9983e75d77a7dd4d6b22adb))
+
+
+### 🚀 Chore | 构建/工程依赖/配置
+
+* **release:** 0.0.10 ([4fcda1e](https://gitee.com/liu-shipeng/my-eslint/commit/4fcda1ee4fdaa76333fa19688f115c4ae8d91ab9))
+* **release:** 0.0.11 ([2bd8114](https://gitee.com/liu-shipeng/my-eslint/commit/2bd8114b0f2b3431824eab5f8dfffddae326c6f7))
+
 ### [0.0.11](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.22...v0.0.11) (2022-08-12)
 
 
