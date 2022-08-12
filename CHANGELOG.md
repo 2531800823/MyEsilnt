@@ -1,4 +1,13 @@
 CHANGELOG 
+### [0.0.9](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.8...v0.0.9) (2022-08-12)
+
+
+### ✨Features | 新功能
+
+* 添加作者测试2 ([e53afeb](https://gitee.com/liu-shipeng/my-eslint/commit/e53afeb55448d44c3376629b35b8fddb071035b0))
+* 添加作者测试2 ([a6688b3](https://gitee.com/liu-shipeng/my-eslint/commit/a6688b3a810b508c9a959bdcab3b15eb3900b116))
+* 添加作者测试2 ([ffcc13e](https://gitee.com/liu-shipeng/my-eslint/commit/ffcc13ef6c6352cb989c0ca780bf109b381a20e2))
+
 ### [0.0.8](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.7...v0.0.8) (2022-08-12)
 
 
