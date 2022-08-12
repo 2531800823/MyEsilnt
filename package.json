@@ -7,7 +7,9 @@
     "build": "tsc && vite build",
     "prepare": "husky install",
     "preview": "vite preview",
-    "lint": "eslint src --fix"
+    "lint": "pnpm lint:script ",
+    "lint:script": "eslint src/ --ext .js,.jsx,.ts,.tsx --fix",
+    "lint:style": "stylelint '{site,components}/**/*.{cscc,css,less}'"
   },
   "dependencies": {
     "react": "^18.2.0",
