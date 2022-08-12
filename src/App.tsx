@@ -31,15 +31,11 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">Click on the Vite and React logos to learn more</p>
-      <button
-        className={'1111'}
-        disabled
+      <button  className={'1111'}  disabled
         style={{ width: 300, height: 500, border: '1px solid red' }}
       />
-      <p />
-      <p />
-      <p />
       <div />
+      <span />
     </div>
   );
 }
