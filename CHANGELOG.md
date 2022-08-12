@@ -1,6 +1,10 @@
-# Changelog
+CHANGELOG ！！
+### [0.0.4](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.3...v0.0.4) (2022-08-12)
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 添加changelog ([982c031](https://gitee.com/liu-shipeng/my-eslint/commit/982c03166eb81538a04e8d1611793f66803eb89b))
 
 ### [0.0.3](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.2...v0.0.3) (2022-08-12)
 
