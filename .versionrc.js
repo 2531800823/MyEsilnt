@@ -1,7 +1,7 @@
 module.exports = {
   header: "CHANGELOG ！！",
   types: [
-    { type: 'feat', section: '✨Features | 新功能' + "{{owner}}" },
+    { type: 'feat', section: '✨Features | 新功能' + "{{owner}}", Substitutions: true },
     { type: 'fix', section: '🐛 Bug Fixes | Bug 修复' + "{{owner}}" },
     { type: 'init', section: '🎉 Init | 初始化' + "{{owner}}" },
     { type: 'docs', section: '✏️ Documentation | 文档' + "{{owner}}" },
