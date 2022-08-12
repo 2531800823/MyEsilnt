@@ -1,7 +1,7 @@
 {
   "name": "myeslint",
   "private": true,
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": {
     "email": "2531800823@qq.com",
     "name": "liushipeng"
@@ -13,9 +13,10 @@
     "preview": "vite preview",
     "test": "each liu...",
     "release": "standard-version",
-    "lint": "pnpm lint:script ",
+    "lint": "pnpm lint:script && pnpm lint:style",
     "lint:script": "eslint src/ --ext .js,.jsx,.ts,.tsx --fix",
-    "lint:style": "stylelint '{site,components}/**/*.{cscc,css,less}'"
+    "lint:style": "stylelint 'src/**/*.{cscc,css,less}' --fix",
+    "stylelint": "pnpm stylelint  'src/**/*.{less,css,scss}' "
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -31,6 +32,7 @@
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "standard-version": "^9.5.0",
+    "stylelint-config-recess-order": "^3.0.0",
     "typescript": "^4.6.4",
     "vite": "^3.0.6"
   }
