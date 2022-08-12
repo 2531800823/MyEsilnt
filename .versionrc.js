@@ -13,12 +13,7 @@ module.exports = {
     { type: 'build', section: '📦‍ Build System | 打包构建' },
     { type: 'chore', section: '🚀 Chore | 构建/工程依赖/配置' },
     { type: 'ci', section: '👷 Continuous Integration | CI 部署' }
-  ],
-  "issueUrlFormat": {
-    "type": "string",
-    "description": "A URL representing the issue format (allowing a different URL format to be swapped in for Gitlab, Bitbucket, etc).",
-    "default": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}"
-  }
+  ]
 }
 
 
