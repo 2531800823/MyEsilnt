@@ -3,4 +3,14 @@ module.exports = {
   rules: {
     // your rules
   },
+  // "overrides": [
+  //   {
+  //     "files": ["**/*.less"],
+  //     "customSyntax": "postcss-less"
+  //   },
+  //   {
+  //     "files": ["**/*.scss"],
+  //     "customSyntax": "postcss-scss"
+  //   }
+  // ]
 };
