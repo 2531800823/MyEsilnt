@@ -4,6 +4,7 @@ import './App.css';
 
 const a = {
   a: 1,
+  b: 2,
 };
 console.log(a);
 function App() {
