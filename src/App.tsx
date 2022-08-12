@@ -6,8 +6,8 @@ const a = {
   a: 1,
   b: 2,
   c: 1,
-  "d": 1,
-  "e":1
+  d: 1,
+  e: 1,
 };
 console.log(a);
 function App() {
@@ -31,11 +31,13 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">Click on the Vite and React logos to learn more</p>
-      <button className={'1111'} disabled
+      <button
+        className={'1111'}
+        disabled
         style={{ width: 300, height: 500, border: '1px solid red' }}
       />
       <p />
-      <p></p>
+      <p />
       <p />
       <div />
     </div>
