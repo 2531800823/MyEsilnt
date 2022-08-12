@@ -1,5 +1,5 @@
 {
   "src/**/*": [
-    "pnpm lint"
+    "eslint --fix"
   ]
 }
