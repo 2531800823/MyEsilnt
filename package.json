@@ -2,6 +2,10 @@
   "name": "myeslint",
   "private": true,
   "version": "0.0.4",
+  "author": {
+    "email": "2531800823@qq.com",
+    "name": "liushipeng"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
