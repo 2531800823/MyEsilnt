@@ -21,25 +21,7 @@
       // "@@/*": ["src/.umi/*"]
     }
   },
-  "include": [
-    "src",
-    ".eslintrc.js",
-    "mock/**/*",
-    "src/**/*",
-    "config/**/*",
-    ".umirc.ts",
-    "typings.d.ts"
-  ],
-  "exclude": [
-    "node_modules",
-    "lib",
-    "es",
-    "dist",
-    "typings",
-    "**/__test__",
-    "test",
-    "docs",
-    "tests"
-  ],
+  "include": ["src", ".eslintrc.js", "mock/**/*", "src/**/*", "./types.d.ts"],
+  "exclude": ["node_modules", "lib", "dist"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

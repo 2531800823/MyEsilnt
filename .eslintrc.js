@@ -1,10 +1,12 @@
-const fabric = require('@umijs/fabric');
-
 module.exports = {
-  ...fabric.default,
+  extends: [require.resolve('@umijs/fabric/dist/eslint')],
+  parserOptions: {
+    tsconfigRootDir: __dirname,
+    project: './tsconfig.json',
+    createDefaultProgram: true,
+  },
   rules: {
-    ...fabric.default.rules,
-    indent: "off",
+    indent: 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'off',
     'no-restricted-syntax': 'off',
