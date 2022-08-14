@@ -1,4 +1,11 @@
 CHANGELOG 
+### [0.0.15](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.14...v0.0.15) (2022-08-14)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 格式化eslintrc ([6950ff3](https://gitee.com/liu-shipeng/my-eslint/commit/6950ff3d4a8ec3bfd9c7c7971e223d854c54cf2f))
+
 ### 0.0.14 (2022-08-13)
 
 
