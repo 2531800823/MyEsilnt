@@ -1,4 +1,12 @@
 CHANGELOG 
+### [0.0.18](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.17...v0.0.18) (2022-08-15)
+
+
+### ✨Features | 新功能
+
+* 添加删除node_modules 命令 ([ef9ffd1](https://gitee.com/liu-shipeng/my-eslint/commit/ef9ffd12e944ca49b3368697b8271e62fa781173))
+* pnpm开启严格模式 ([e1f9cc0](https://gitee.com/liu-shipeng/my-eslint/commit/e1f9cc0a15494e7235ad95ca39a724b4fa99d869))
+
 ### [0.0.17](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.16...v0.0.17) (2022-08-15)
 
 
