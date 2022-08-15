@@ -2,6 +2,7 @@
   "name": "myeslint",
   "private": true,
   "version": "0.0.13",
+  "type": "module",
   "author": {
     "email": "2531800823@qq.com",
     "name": "liushipeng"
