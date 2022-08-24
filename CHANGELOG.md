@@ -1,4 +1,47 @@
 CHANGELOG 
+### [0.0.20](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.19...v0.0.20) (2022-08-15)
+
+### [0.0.19](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.18...v0.0.19) (2022-08-15)
+
+### [0.0.18](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.17...v0.0.18) (2022-08-15)
+
+
+### ✨Features | 新功能
+
+* 添加删除node_modules 命令 ([ef9ffd1](https://gitee.com/liu-shipeng/my-eslint/commit/ef9ffd12e944ca49b3368697b8271e62fa781173))
+* pnpm开启严格模式 ([e1f9cc0](https://gitee.com/liu-shipeng/my-eslint/commit/e1f9cc0a15494e7235ad95ca39a724b4fa99d869))
+
+### [0.0.17](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.16...v0.0.17) (2022-08-15)
+
+
+### ✨Features | 新功能
+
+* 添加在push前release ([2c3ce68](https://gitee.com/liu-shipeng/my-eslint/commit/2c3ce68b6eb1c019c7f170bd5affb9a504999d56))
+
+### [0.0.16](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.13...v0.0.16) (2022-08-15)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 格式化eslintrc ([6950ff3](https://gitee.com/liu-shipeng/my-eslint/commit/6950ff3d4a8ec3bfd9c7c7971e223d854c54cf2f))
+* aa ([d6fa03e](https://gitee.com/liu-shipeng/my-eslint/commit/d6fa03eb79e2b8fb0815ecfeb4ca3f3283f42c69))
+* aa ([dd4b1d7](https://gitee.com/liu-shipeng/my-eslint/commit/dd4b1d7de1923680456126495c801ded23b182fd))
+* test ([7c60452](https://gitee.com/liu-shipeng/my-eslint/commit/7c604521390309e4fcfa99944ead0f06b7ccd1da))
+* test测试 ([21cca17](https://gitee.com/liu-shipeng/my-eslint/commit/21cca178b45d673a0201e9a41a1858efabfe20f1))
+
+
+### 🚀 Chore | 构建/工程依赖/配置
+
+* **release:** 0.0.14 ([c369213](https://gitee.com/liu-shipeng/my-eslint/commit/c369213425c1920cbb276159ac5334e338abb5ed))
+* **release:** 0.0.15 ([4e8446e](https://gitee.com/liu-shipeng/my-eslint/commit/4e8446eb8f943bd870b1e7d2e231ddb071019ca1))
+
+
+### ✨Features | 新功能
+
+* 打开保存自动格式化 ([0178c2f](https://gitee.com/liu-shipeng/my-eslint/commit/0178c2f6b25f6a49d018266dfbb87a1be85592f9))
+* 完成stylelint处理 ([fe35210](https://gitee.com/liu-shipeng/my-eslint/commit/fe35210e384f042d98028f7f24062a853e1a6d97))
+* 完成stylelint处理 ([27eaae2](https://gitee.com/liu-shipeng/my-eslint/commit/27eaae203554b311a68ac4d7299fd2e2c30ebd31))
+
 ### [0.0.15](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.14...v0.0.15) (2022-08-14)
 
 

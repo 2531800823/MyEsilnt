@@ -1,17 +1,25 @@
+// const fabric = require('@umijs/fabric');
+
 module.exports = {
   extends: [require.resolve('@umijs/fabric/dist/eslint')],
+  parserOptions: {
+    project: './tsconfig.json',
+  },
+  // extends: [require.resolve('@umijs/fabric/dist/eslint')],
   parserOptions: {
     tsconfigRootDir: __dirname,
     project: './tsconfig.json',
     createDefaultProgram: true,
   },
   rules: {
-    indent: 'off',
+    // indent: 'off',
     '@typescript-eslint/prefer-interface': 0,
     '@typescript-eslint/no-explicit-any': 0,
     '@typescript-eslint/array-type': ['error', { default: 'array-simple' }],
     'no-return-assign': 0,
     semi: ['error', 'always'],
+    // 会误伤@
+    'import/no-unresolved': 'off',
     'no-confusing-arrow': 0,
     'no-console': 0,
     'max-len': ['error', { code: 120, ignoreComments: true, ignoreStrings: true }],

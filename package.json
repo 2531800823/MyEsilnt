@@ -1,7 +1,7 @@
 {
   "name": "myeslint",
   "private": true,
-  "version": "0.0.15",
+  "version": "0.0.20",
   "author": {
     "email": "2531800823@qq.com",
     "name": "liushipeng"
@@ -12,6 +12,7 @@
     "prepare": "husky install",
     "preview": "vite preview",
     "test": "each liu...",
+    "clear": "rimraf node_modules",
     "release": "standard-version",
     "lint": "pnpm lint:script && pnpm stylelint",
     "lint:script": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
