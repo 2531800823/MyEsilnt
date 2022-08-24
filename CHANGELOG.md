@@ -1,4 +1,25 @@
 CHANGELOG 
+### [0.0.21](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.15...v0.0.21) (2022-08-24)
+
+
+### 🚀 Chore | 构建/工程依赖/配置
+
+* **release:** 0.0.16 ([364a263](https://gitee.com/liu-shipeng/my-eslint/commit/364a263452aeca6ecb8664d42d2c82093a70a4f8))
+* **release:** 0.0.17 ([107e4c7](https://gitee.com/liu-shipeng/my-eslint/commit/107e4c7ea151e2f940d116f196181049e503f73d))
+* **release:** 0.0.18 ([a8174fa](https://gitee.com/liu-shipeng/my-eslint/commit/a8174fa105556a0a223374aee30ba38c16471e5d))
+* **release:** 0.0.19 ([52094e4](https://gitee.com/liu-shipeng/my-eslint/commit/52094e4fc690d9c73d16046f64e217f5d2631a6f))
+* **release:** 0.0.20 ([feec6ad](https://gitee.com/liu-shipeng/my-eslint/commit/feec6adb111eb34018a5213e138555d9c31ef904))
+
+
+### ✨Features | 新功能
+
+* 添加浏览器适配版本, ant方案 ([5590670](https://gitee.com/liu-shipeng/my-eslint/commit/5590670710a2b676876f7cd5585c71665ac328ce))
+* 添加删除node_modules 命令 ([ef9ffd1](https://gitee.com/liu-shipeng/my-eslint/commit/ef9ffd12e944ca49b3368697b8271e62fa781173))
+* 添加在push前release ([2c3ce68](https://gitee.com/liu-shipeng/my-eslint/commit/2c3ce68b6eb1c019c7f170bd5affb9a504999d56))
+* 完成stylelint处理 ([fe35210](https://gitee.com/liu-shipeng/my-eslint/commit/fe35210e384f042d98028f7f24062a853e1a6d97))
+* 完成stylelint处理 ([27eaae2](https://gitee.com/liu-shipeng/my-eslint/commit/27eaae203554b311a68ac4d7299fd2e2c30ebd31))
+* pnpm开启严格模式 ([e1f9cc0](https://gitee.com/liu-shipeng/my-eslint/commit/e1f9cc0a15494e7235ad95ca39a724b4fa99d869))
+
 ### [0.0.20](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.19...v0.0.20) (2022-08-15)
 
 ### [0.0.19](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.18...v0.0.19) (2022-08-15)
