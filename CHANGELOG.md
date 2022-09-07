@@ -1,4 +1,6 @@
 CHANGELOG 
+### [0.0.22](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.21...v0.0.22) (2022-09-07)
+
 ### [0.0.21](https://gitee.com/liu-shipeng/my-eslint/compare/v0.0.15...v0.0.21) (2022-08-24)
 
 
